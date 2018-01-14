@@ -1,0 +1,181 @@
+body{
+	background-color: #ffffff;
+	color: #555555;
+}
+
+.ipbcColor{
+	color: #86af49;
+}
+
+.defaultColor{
+	color: #555555;
+}
+
+.navbar{
+	height: 55px;
+    position: fixed;
+    top: 0px;
+    margin-bottom: 0px;
+    background-color: #ffffff;
+    border-bottom: 2px solid #86af49;
+    padding-top: 7px;
+}
+
+.navbar-collapse.collapse.in{
+    background-color: white;
+    margin-top: 8px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid rgb(134, 175, 73);
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+	background-color: transparent;
+}
+
+
+.ipbc_logo{
+	height: 40px;
+}
+
+.explorer_menu{
+	margin-left: 15px;
+	font-size: 14px;
+}
+
+.explorer_menu > li > a{
+	color: #555555 !important;
+}
+
+.explorer_menu > li.active > a{
+	background-color: transparent !important;
+	color: #86af49 !important;
+}
+
+.explorer_menu > li > a:hover{
+	background-color: transparent !important;
+	color: #86af49 !important;
+}
+
+.explorer-search > .input-group{
+	margin-top: 5px;
+}
+
+#txt_search, #btn_search{
+	height: 30px;
+	background-color: white;
+	border: 1px solid #cccccc;
+	color: #555555;
+}	
+#btn_search{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 3px;
+}
+
+.panel-default, .panel-heading, .chart-wrapper{
+	background-color: #f0efee !important;
+}
+
+.panel-heading{
+	color: #86af49 !important;
+}
+
+.nav-pills.nav-stacked > li > a{
+	color: #cccccc !important;
+}
+
+.nav-pills.nav-stacked > li > a > span{
+	color: #555555;
+}
+
+
+.nav-pills.nav-stacked > li > a:hover{
+	background-color: transparent !important;
+}
+
+.badge{
+	background-color: #86af49 !important;
+}
+
+.table-responsive{
+	color: #555555;
+}
+
+.table-hover > tbody > tr:hover{
+	background-color: transparent !important;
+}
+
+.table-hover > tbody > tr > td > a{
+	color: #555555 !important;
+}
+#prev-page{
+	border-right: none !important;
+}
+
+#goto-height{
+	border-left: none !important;
+	border-right: none !important;
+}
+
+#next-page{
+	border-left: none !important;
+}
+
+#prev-page, .input-group-addon, #goto-height, #next-page{
+	background-color: #ffffff;
+	color: #555555;
+	border: 1px solid #cccccc;
+}
+
+#prev-page:hover, #goto-height-go:hover, #next-page:hover{
+	background-color: #ffffff;
+	color: #555555;
+	border: 1px solid #cccccc;
+}
+
+#loadMoreBlocks{
+	background-color: #ffffff;
+	color: #555555;
+
+}
+
+#calcHashRate,#calcHashDropdown{
+	border-right: none !important;
+}
+
+#calcHashRate, #calcHashDropdown{
+	background-color: #ffffff;
+	color: #555555;
+	border: 1px solid #cccccc;
+}
+
+#calcHashUnits{
+	background-color: #ffffff;
+	border: 1px solid #cccccc;
+	border-top: none;
+}
+
+#calcHashUnits > li > a, #calcHashUnits > li > a:hover {
+	color: #555555 !important;
+	background-color: transparent;
+}
+
+.table-responsive{
+	background-color: #f0efee;
+}
+
+#content{
+	margin-top: 20px;
+}
+
+#page > h2{
+	color: #86af49;
+}
+
+a {
+	color: #555555 !important;
+}
+
+.marginBottom20{
+	margin-bottom: 20px;
+}
