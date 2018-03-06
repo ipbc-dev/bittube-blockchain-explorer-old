@@ -8,7 +8,7 @@ var networkStat = {
   "ipbc": [
     ["pool.ipbc.io", "https://pool.ipbc.io:8119"],
     ["support.ipbc.io", "https://support.ipbc.io:8119"],
-    ["ipbc.cryptonight.me", "https://ipbc.cryptonight.me:8009"],
+    ["ipbc.fatpanda.club", "https://api-web.fatpanda.club:8009"],
   ]
 };
 
@@ -16,6 +16,6 @@ var networkStat2 = {
   "ipbc": [
     ["pool.ipbc.io", "https://pool.ipbc.io:8119"],
     ["support.ipbc.io", "https://support.ipbc.io:8119"],
-    ["ipbc.cryptonight.me", "https://ipbc.cryptonight.me:8009"],
+    ["ipbc.fatpanda.club", "https://api-web.fatpanda.club:8009"],
   ]
 };
