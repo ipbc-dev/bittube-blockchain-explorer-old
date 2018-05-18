@@ -1,7 +1,7 @@
 var api = 'https://explorer.ipbc.io:8120';
 var blockTargetInterval = 120;
 var coinUnits = 100000000;
-var symbol = 'IPBC';
+var symbol = 'TUBE';
 var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
